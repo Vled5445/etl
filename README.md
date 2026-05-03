@@ -62,9 +62,14 @@
 <img width="1440" height="443" alt="Снимок экрана 2026-05-03 в 11 18 58" src="https://github.com/user-attachments/assets/548fbd0a-68ed-4088-af3e-505e86042257" />
 
 
-Подключимся к ВМ через SSH, установим необходимые библиотеки и передадим наши данные
+Подключимся к ВМ через SSH, установим необходимые библиотеки
 
 <img width="629" height="557" alt="image" src="https://github.com/user-attachments/assets/9754b745-f08e-4abc-a491-05e3eabebbf5" />
+
+Создадим данные и запустим процесс
+
+<img width="922" height="317" alt="image" src="https://github.com/user-attachments/assets/348a30fc-f535-435b-82b9-88257f47d46e" />
+
 
 
 Проверим данные в таблице 
