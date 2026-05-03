@@ -62,3 +62,13 @@
 <img width="1440" height="443" alt="Снимок экрана 2026-05-03 в 11 18 58" src="https://github.com/user-attachments/assets/548fbd0a-68ed-4088-af3e-505e86042257" />
 
 
+Подключимся к ВМ через SSH, установим необходимые библиотеки и передадим наши данные
+
+<img width="629" height="557" alt="image" src="https://github.com/user-attachments/assets/9754b745-f08e-4abc-a491-05e3eabebbf5" />
+
+
+Проверим данные в таблице 
+
+<img width="1429" height="728" alt="image" src="https://github.com/user-attachments/assets/bde0357b-9e30-4ee5-842d-990797f4fc95" />
+
+
